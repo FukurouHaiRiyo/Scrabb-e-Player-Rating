@@ -4,7 +4,8 @@ The dataset includes information about ~73,000 Scrabble games played by three bo
 
 There is metadata for each game (games.csv), gameplay data about turns played by each player in each game (turns.csv), and final scores and ratings from BEFORE a given game was played for each player in each game (train.csv and test.csv).
 
-Here is an example of a game played on woogles.io: https://woogles.io/game/icNJtmxy. Use the "Examine" button to replay the game turn-by-turn.
+Here is an example of a game played on woogles.io: https://woogles.io/game/icNJtmxy. Use the "Examine" button to replay the game turn-by-turn.<br>
+Data taken from: https://www.kaggle.com/competitions/scrabble-player-rating/data
  
 ## Files
 > + **games.csv** - metadata about games (e.g., who went first, time controls)<br>
